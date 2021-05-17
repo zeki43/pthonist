@@ -1,0 +1,2 @@
+# pthonist
+pyhon kod
